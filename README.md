@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Software Architecture**
 
-- 🤝 I’m looking for help with **web development, microservices, and mobile development, focusing on technologies like ReactJS, Spring Boot, and Flutter."**
-
 - 📫 How to reach me **gloireahadi9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
